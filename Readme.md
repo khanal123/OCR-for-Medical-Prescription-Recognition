@@ -1,4 +1,4 @@
-# Medical Prescription OCR using CRNN 
+# Medical Prescription OCR using CRNN
 
 ## Project Overview
 This project implements an Optical Character Recognition (OCR) system for extracting text from medical prescription images using a CRNN (Convolutional Recurrent Neural Network).
@@ -27,9 +27,9 @@ pip install opencv-python numpy pandas matplotlib scikit-learn pillow jiwer
 
 1. Open terminal and navigate to the project folder:
 
-2. Activate virtual environment (if used):
-	Mac/Linux: source venv/bin/activate
-	Windows: venv\Scripts\activate
+2. Activate virtual environment (if used):  
+   Mac/Linux: source venv/bin/activate  
+   Windows: venv\Scripts\activate  
 
 3. Launch Jupyter Notebook:
 
@@ -69,5 +69,3 @@ pip install opencv-python numpy pandas matplotlib scikit-learn pillow jiwer
 
 - Baradan Mainali  
 - Suman Khanal  
-
----
