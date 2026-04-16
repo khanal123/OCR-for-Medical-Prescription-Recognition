@@ -10,7 +10,6 @@ This project implements an Optical Character Recognition (OCR) system for extrac
 - Evaluation using CER and WER
 - Prediction visualization
 
-
 ---
 
 ## Requirements
@@ -20,7 +19,7 @@ Install the following Python packages:
 ```bash
 pip install torch torchvision torchaudio
 pip install opencv-python numpy pandas matplotlib scikit-learn pillow jiwer
-```
+
 ---
 
 ## How to Run
@@ -69,3 +68,4 @@ pip install opencv-python numpy pandas matplotlib scikit-learn pillow jiwer
 - Baradan Mainali  
 - Suman Khanal  
 
+---
