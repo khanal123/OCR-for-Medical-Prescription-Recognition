@@ -20,7 +20,7 @@ Install the following Python packages:
 ```bash
 pip install torch torchvision torchaudio
 pip install opencv-python numpy pandas matplotlib scikit-learn pillow jiwer
-
+```
 ---
 
 ## How to Run
