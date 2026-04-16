@@ -57,7 +57,7 @@ pip install opencv-python numpy pandas matplotlib scikit-learn pillow jiwer
 
 ---
 
-#Notes
+## Notes
 
 - The model is trained on CPU due to compatibility limitations with Apple MPS.
 - Target labels were simplified to "medicine + dosage" for better training performance.
@@ -65,7 +65,7 @@ pip install opencv-python numpy pandas matplotlib scikit-learn pillow jiwer
 
 ---
 
-#Authors
+## Authors
 - Baradan Mainali  
 - Suman Khanal  
 
